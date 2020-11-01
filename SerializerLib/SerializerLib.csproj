@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Evaristo Cuesta</Authors>
+    <Company>Evaristo Cuesta</Company>
+    <Description>Library to easily serialize and deserialize</Description>
+    <Copyright>Copyright © 2020 Evaristo Cuesta</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/evaristocuesta/SerializerLib</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/evaristocuesta/SerializerLib</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>serializer xml</PackageTags>
+    <PackageIcon>logo.png</PackageIcon>
+    <PackageId>SerializerLib</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
