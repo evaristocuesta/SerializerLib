@@ -10,7 +10,7 @@
     <PackageProjectUrl>https://github.com/evaristocuesta/SerializerLib</PackageProjectUrl>
     <RepositoryUrl>https://github.com/evaristocuesta/SerializerLib</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>serializer xml</PackageTags>
+    <PackageTags>serializer deserializer xml</PackageTags>
     <PackageIcon>logo.png</PackageIcon>
     <PackageId>SerializerLib</PackageId>
   </PropertyGroup>
